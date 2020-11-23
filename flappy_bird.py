@@ -5,15 +5,11 @@ import time
 class bird:
     def __init__(self, y):
         self.y = y
-
+    
     def trajectory(self, time):
-        if time < time_increment*2000: # faut revoir l'équation et mettre un clock au lieu de time_increment comme ça
-            self.y = -0.5*9.81*time*time
-        elif time < time_increment*4000:
-            self.y = 0.5*9.81*time*time
-        else:
-            return 0
+        self.y = (-0.83*time*time + 2*time+ 1.5)+200
         return self.y
+
 class pipe:
     def __init__(self, x, y):
         self.y = y
@@ -44,11 +40,11 @@ while not game_over:
 
     print(event)
     pipe.x+=-0.09
-    time += time_increment
     dis.fill(white)
-    bird.y += bird.trajectory(time)
+    time+=0.1
+    bird.y = bird.trajectory(time)
     pygame.draw.rect(dis, green, [pipe.x, 350 , 60, 250])
-    pygame.draw.rect(dis, red, [80, bird.y, 22, 22])
+    pygame.draw.rect(dis, red, [80, abs(bird.y), 22, 22])
     pygame.display.update()
 
 pygame.quit()
