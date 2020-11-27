@@ -7,7 +7,7 @@ class bird:
         self.y = y
     
     def trajectory(self, time):
-        self.y = (-0.83*time*time + 2*time+ 1.5)+200
+        self.y = (-0.5*time*time)+200
         return self.y
 
 class pipe:
@@ -18,7 +18,6 @@ class pipe:
 pipe = pipe(400, 350)
 bird = bird(230)
 time = 0
-time_increment = 0.00001
 
 dis_width = 800
 dis_height = 600
@@ -36,6 +35,9 @@ while not game_over:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             game_over = True
+        # if event.type == pygame.KEYDOWN:
+        #     if event.key == pygame.K_UP:
+                
 
 
     print(event)
