@@ -1,0 +1,300 @@
+1607550383070	geckodriver	INFO	Listening on 127.0.0.1:51749
+1607550383077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu4IX4h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607550394585	Marionette	INFO	Listening on port 41473
+1607550394707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 688))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1607550401242	Marionette	INFO	Stopped listening on port 41473
+JavaScript error: resource:///modules/EveryWindow.jsm, line 37: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1607550413090	geckodriver	INFO	Listening on 127.0.0.1:50141
+1607550413097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZq9S4t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607550416666	Marionette	INFO	Listening on port 38523
+1607550416735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607550429915	Marionette	INFO	Stopped listening on port 38523
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+32722
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1607550646328	geckodriver	INFO	Listening on 127.0.0.1:47459
+1607550646335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUgiLnE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607550649556	Marionette	INFO	Listening on port 37275
+1607550649665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607550719688	geckodriver	INFO	Listening on 127.0.0.1:34459
+1607550719694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGoPSf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607550722892	Marionette	INFO	Listening on port 36861
+1607550722935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607550864676	geckodriver	INFO	Listening on 127.0.0.1:34101
+1607550864683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebrKXRG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607550868224	Marionette	INFO	Listening on port 35407
+1607550868317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607551076914	geckodriver	INFO	Listening on 127.0.0.1:45101
+1607551076920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec05u6T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551080247	Marionette	INFO	Listening on port 43787
+1607551080350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1607551084934	Marionette	INFO	Stopped listening on port 43787
+1607551130186	geckodriver	INFO	Listening on 127.0.0.1:55143
+1607551130192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Too0f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551133973	Marionette	INFO	Listening on port 36073
+1607551134023	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1607551161529	Marionette	INFO	Stopped listening on port 36073
+1607551290366	geckodriver	INFO	Listening on 127.0.0.1:51503
+1607551290374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileexNx29"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551293784	Marionette	INFO	Listening on port 38851
+1607551293903	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607551306215	Marionette	INFO	Stopped listening on port 38851
+1607551332024	geckodriver	INFO	Listening on 127.0.0.1:52047
+1607551332030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9tsI4J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551335456	Marionette	INFO	Listening on port 38899
+1607551335567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607551537740	geckodriver	INFO	Listening on 127.0.0.1:41811
+1607551537746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUbzqkw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551541446	Marionette	INFO	Listening on port 34927
+1607551541490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607551630500	geckodriver	INFO	Listening on 127.0.0.1:49065
+1607551630506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevG5V06"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551633840	Marionette	INFO	Listening on port 43427
+1607551633947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607551705435	geckodriver	INFO	Listening on 127.0.0.1:34623
+1607551705441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLPsNMU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551709616	Marionette	INFO	Listening on port 43741
+1607551709683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1607551724242	Marionette	INFO	Stopped listening on port 43741
+1607551989471	geckodriver	INFO	Listening on 127.0.0.1:45651
+1607551989477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevSfsey"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607551992779	Marionette	INFO	Listening on port 34337
+1607551992809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1607552064573	geckodriver	INFO	Listening on 127.0.0.1:44525
+1607552064580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyZcSEk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607552067950	Marionette	INFO	Listening on port 42027
+1607552068023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1607552174632	geckodriver	INFO	Listening on 127.0.0.1:56345
+1607552174638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRpAxlX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607552178224	Marionette	INFO	Listening on port 45865
+1607552178274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1607552203704	Marionette	INFO	Stopped listening on port 45865
+1607552211560	geckodriver	INFO	Listening on 127.0.0.1:44651
+1607552211566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0nEnGb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607552215020	Marionette	INFO	Listening on port 44481
+1607552215109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1607552238143	Marionette	INFO	Stopped listening on port 44481
+1607553378621	geckodriver	INFO	Listening on 127.0.0.1:51107
+1607553378629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilednV2tr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607553382239	Marionette	INFO	Listening on port 37325
+1607553382262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607553398750	Marionette	INFO	Stopped listening on port 37325
+1607553513149	geckodriver	INFO	Listening on 127.0.0.1:47761
+1607553513156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2K7wja"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607553516320	Marionette	INFO	Listening on port 43823
+1607553516385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+1607553649865	geckodriver	INFO	Listening on 127.0.0.1:44273
+1607553649871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerKfofG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607553653724	Marionette	INFO	Listening on port 34107
+1607553653806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+1607553686680	Marionette	INFO	Stopped listening on port 34107
+1607553720194	geckodriver	INFO	Listening on 127.0.0.1:53853
+1607553720201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGgHIHX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607553726130	Marionette	INFO	Listening on port 41079
+1607553726240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1607553778890	geckodriver	INFO	Listening on 127.0.0.1:54909
+1607553778897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelRXLhq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607553782178	Marionette	INFO	Listening on port 46417
+1607553782228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+1607553820561	Marionette	INFO	Stopped listening on port 46417
+1607554252611	geckodriver	INFO	Listening on 127.0.0.1:44183
+1607554276037	geckodriver	INFO	Listening on 127.0.0.1:35373
+1607554535848	geckodriver	INFO	Listening on 127.0.0.1:57239
+1607554535855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUUEt1u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607554539302	Marionette	INFO	Listening on port 38127
+1607554539389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+1607554551917	Marionette	INFO	Stopped listening on port 38127
+1607554560304	geckodriver	INFO	Listening on 127.0.0.1:55115
+1607554560311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOIzFc7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607554563775	Marionette	INFO	Listening on port 42289
+1607554563845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607554581312	Marionette	INFO	Stopped listening on port 42289
+1607554582684	geckodriver	INFO	Listening on 127.0.0.1:57179
+1607554582691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesjHBXG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607554586302	Marionette	INFO	Listening on port 43529
+1607554586426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607555013767	Marionette	INFO	Stopped listening on port 43529
+1607555116212	geckodriver	INFO	Listening on 127.0.0.1:56277
+1607555116219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGJUHn4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607555122645	Marionette	INFO	Listening on port 40575
+1607555122764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+1607555140651	Marionette	INFO	Stopped listening on port 40575
+1607555154318	geckodriver	INFO	Listening on 127.0.0.1:41659
+1607555154405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6aI06R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607555158169	Marionette	INFO	Listening on port 34291
+1607555158242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+1607555286724	Marionette	INFO	Stopped listening on port 34291
+1607555293929	geckodriver	INFO	Listening on 127.0.0.1:57595
+1607555293936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-search-geolocation-disclosure" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFXrf8I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607555297445	Marionette	INFO	Listening on port 33237
+1607555297565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.gps-coordinates.net/js/f5557ab.js, line 2: TypeError: map is undefined
+JavaScript warning: https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js, line 3: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1607555312405	Marionette	INFO	Stopped listening on port 33237
+1607555572112	geckodriver	INFO	Listening on 127.0.0.1:45231
+1607555572119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS8umja"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607555575460	Marionette	INFO	Listening on port 44815
+1607555575547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607555720652	geckodriver	INFO	Listening on 127.0.0.1:38263
+1607555720659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePGQuRt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607555724186	Marionette	INFO	Listening on port 40043
+1607555724292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607555772962	geckodriver	INFO	Listening on 127.0.0.1:44395
+1607555772970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGeB84d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607555776598	Marionette	INFO	Listening on port 46389
+1607555776705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607555787003	geckodriver	INFO	Listening on 127.0.0.1:56221
+1607555787010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9lTYbS"
