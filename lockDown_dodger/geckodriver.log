@@ -298,3 +298,27 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1607555787003	geckodriver	INFO	Listening on 127.0.0.1:56221
 1607555787010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9lTYbS"
+1607603721337	geckodriver	INFO	Listening on 127.0.0.1:57069
+1607603722035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerCYPz4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607603727622	Marionette	INFO	Listening on port 33155
+1607603727897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607603753507	geckodriver	INFO	Listening on 127.0.0.1:43997
+1607603753536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehrAGr6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607603758110	Marionette	INFO	Listening on port 37639
+1607603758170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607603780582	Marionette	INFO	Stopped listening on port 37639
+1607603781694	geckodriver	INFO	Listening on 127.0.0.1:34851
+1607603781700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileosgcoF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607603784813	Marionette	INFO	Listening on port 44735
+1607603784932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607604077212	geckodriver	INFO	Listening on 127.0.0.1:46065
+1607604077218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileufBvvm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607604080670	Marionette	INFO	Listening on port 46197
+1607604080749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: undefined
+1607604117067	Marionette	INFO	Stopped listening on port 46197

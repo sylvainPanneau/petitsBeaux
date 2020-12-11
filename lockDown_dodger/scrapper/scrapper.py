@@ -7,8 +7,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
+browser = webdriver.Firefox()
+browser.get("https://www.latlong.net/Show-Latitude-Longitude.html")
 browser.find_element(By.ID, "latitude").send_keys("48.819626" + Keys.ENTER) #récupérer lat/long avec le main
 browser.find_element(By.ID, "longitude").send_keys("2.404811" + Keys.ENTER)
-browser.find_element_by_class_name("btn.btn-primary").click()
 adress = browser.find_element(By.ID, "address").text
 print(adress)
