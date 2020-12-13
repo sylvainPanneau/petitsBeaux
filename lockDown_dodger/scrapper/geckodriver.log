@@ -22,3 +22,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
 JavaScript error: , line 0: uncaught exception: null
 1607552396715	Marionette	INFO	Stopped listening on port 36703
+1607793511135	geckodriver	INFO	Listening on 127.0.0.1:44727
+1607793512104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Uk7la"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607793522683	Marionette	INFO	Listening on port 41499
+1607793522863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media.interieur.gouv.fr/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1215402217, line 1: unreachable code after return statement
+JavaScript warning: https://media.interieur.gouv.fr/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1215402217, line 1: unreachable code after return statement
+JavaScript warning: https://media.interieur.gouv.fr/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1215402217, line 1: unreachable code after return statement
+JavaScript warning: https://media.interieur.gouv.fr/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1215402217 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://media.interieur.gouv.fr/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1215402217 line 1 > eval, line 1: unreachable code after return statement
+1607793536727	Marionette	INFO	Stopped listening on port 41499
