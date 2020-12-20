@@ -9,7 +9,7 @@ from time import sleep
 print("\n Scanning... \n")
 firefox_options =   Options()
 firefox_options.add_argument("--headless")
-firefox_options.page_load_strategy = 'none'
+firefox_options.page_load_strategy = 'eager'
 browser = webdriver.Firefox(options=firefox_options)
 
 browser.get("https://ent.univ-paris13.fr/applications/notes/")
