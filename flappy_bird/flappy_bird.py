@@ -45,7 +45,7 @@ while not game_over:
     print(event)
     pipe.x+=-0.09
     dis.fill(white)
-    time+=0.075
+    time+=0.0075
     bird.y = bird.trajectory(time)
     pygame.draw.rect(dis, green, [pipe.x, 350 , 60, 250])
     pygame.draw.rect(dis, red, [80, bird.y, 22, 22])
