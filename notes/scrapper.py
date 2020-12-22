@@ -14,7 +14,7 @@ browser = webdriver.Firefox(options=firefox_options)
 
 browser.get("https://ent.univ-paris13.fr/applications/notes/")
 browser.find_element(By.ID, "username").send_keys("12016045")
-browser.find_element(By.ID, "password").send_keys("0114016375T")
+browser.find_element(By.ID, "password").send_keys("")
 browser.find_element(By.ID, "submit").click()
 moyenne = browser.find_element_by_class_name('ligneResumeMoyenne').text
 
