@@ -1,4 +1,4 @@
-file = open("/home/ouicmoi/Documents/css_parse/parse.txt", "r")
+file = open("/home/ouicmoi/Documents/petitsBeaux/css_parse/parse.txt", "r")
 words = file.read()
 
 index = open("/home/ouicmoi/Documents/iut/condoc/projet/secoursPOP_iutv/index.html", "r").read()
